@@ -1,0 +1,8 @@
+LINK VIDEO PRESENTASI PENJELASAN PROJECT:
+>>> https://youtu.be/iyfze4nGoRA
+
+LINK GITHUB
+>>> 
+
+LINK FILE BIGQUERY
+>>> https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1spbi-kimiafarma-423707!2sdataset_kimiafarma
